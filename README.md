@@ -13,30 +13,14 @@ Furthermore, an LED and push button are connected to both the master and slave v
 
 
 ## Jumper setting 
+JP1: 5V
+
 Jumper setting for UNO R4:
-   JP1: 5V
-   JP2 - JP4: 
-     0 .xx
-     1 xx.
-     2 ...
-     3 ...
-     4 ...
-     5 ...
-     6 ..
-     7 ..
+![Jumper UNO R4](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/Jumper_setting_UNO_R4.png)
  
  
- Jumper setting for UNO R3:
-   JP1: 5V
-   JP2 - JP4: 
-     0 ...
-     1 ...
-     2 .xx
-     3 xx.
-     4 ...
-     5 ...
-     6 ..
-     7 .. 
+Jumper setting for UNO R3:
+![Jumper UNO R3](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/Jumper_setting_UNO_R3.png)
 
 ## DIP Switch setting
 S1: OFF-ON-ON-OFF
