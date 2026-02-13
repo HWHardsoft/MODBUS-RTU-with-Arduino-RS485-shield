@@ -1,9 +1,6 @@
 # MODBUS-RTU-with-Arduino-RS485-shield
 How to implement a MODBUS RTU master and slave for use with Zihatec RS485 shield
 
-[![Titel des Videos](https://img.youtube.com/vi/MqWqR2RyUSY/0.jpg)](https://www.youtube.com/watch?v=MqWqR2RyUSY)
-
-
 
 ![Modbus Relay Demo](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/test_setup.jpg)
 
@@ -45,6 +42,10 @@ S3: ON-OFF-ON-ON
 Since Arduino's own MODBUS libraries do not support either the Arduino UNO R4 or the RS485 Shield, I tested various other libraries and came across the [ModbusRTUMaster](https://github.com/CMB27/ModbusRTUMaster) and [ModbusRTUSlave](https://github.com/CMB27/ModbusRTUSlave) libraries by C. M. Bulliner. Both libraries can be installed directly via the Arduino IDE. Please install with all dependencies. 
 
 ![Library installation](https://github.com/HWHardsoft/MODBUS-RTU-with-Arduino-RS485-shield/blob/main/assets/install_cbs_modbus_libs.png)
+
+## How it works
+[![in Action](https://img.youtube.com/vi/MqWqR2RyUSY/0.jpg)](https://www.youtube.com/watch?v=MqWqR2RyUSY)
+
 
 
 ## License
